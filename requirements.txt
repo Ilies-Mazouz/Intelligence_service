@@ -1,7 +1,7 @@
 fastapi==0.111.0
 uvicorn==0.29.0
 sentence-transformers==2.7.0
-faiss-cpu==1.8.0
+faiss-cpu==1.13.2
 fuzzywuzzy==0.18.0
 python-Levenshtein==0.25.1
 numpy==1.26.4
